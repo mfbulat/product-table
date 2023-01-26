@@ -1,0 +1,26 @@
+[
+  {
+    "type": "checkbox",
+    "id": 0
+  },
+  {
+    "value": "Description",
+    "type": "text",
+    "id": 1
+  },
+  {
+    "value": "Price",
+    "type": "text",
+    "id": 2
+  },
+  {
+    "value": "Photo",
+    "type": "text",
+    "id": 3
+  },
+  {
+    "value": "Купить",
+    "type": "text",
+    "id": 4
+  }
+]
